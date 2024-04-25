@@ -526,7 +526,18 @@ export default {
               {
                 label: "流媒体通用分组",
                 value: "https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini"
-              }
+              },
+              {
+                label: '自己家用',
+                value:
+                  'https://cdn.statically.io/gh/landandan/cdn/main/rules/Self_Use_Home.ini',
+              },
+              {
+                label: '自己使用',
+                value:
+                  'https://cdn.statically.io/gh/landandan/cdn/main/rules/Self_Use.ini',
+              },
+
             ]
           },
           {
